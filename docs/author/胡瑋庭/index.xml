@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>胡瑋庭 | WIRELab</title>
-    <link>https://wire.cs.nctu.edu.tw/author/%E8%83%A1%E7%91%8B%E5%BA%AD/</link>
-      <atom:link href="https://wire.cs.nctu.edu.tw/author/%E8%83%A1%E7%91%8B%E5%BA%AD/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://calee0219.github.io/WIRELab/author/%E8%83%A1%E7%91%8B%E5%BA%AD/</link>
+      <atom:link href="https://calee0219.github.io/WIRELab/author/%E8%83%A1%E7%91%8B%E5%BA%AD/index.xml" rel="self" type="application/rss+xml" />
     <description>胡瑋庭</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>WIRELab NCTU</copyright>
     <image>
-      <url>https://wire.cs.nctu.edu.tw/author/%E8%83%A1%E7%91%8B%E5%BA%AD/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://calee0219.github.io/WIRELab/author/%E8%83%A1%E7%91%8B%E5%BA%AD/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url>
       <title>胡瑋庭</title>
-      <link>https://wire.cs.nctu.edu.tw/author/%E8%83%A1%E7%91%8B%E5%BA%AD/</link>
+      <link>https://calee0219.github.io/WIRELab/author/%E8%83%A1%E7%91%8B%E5%BA%AD/</link>
     </image>
     
   </channel>
