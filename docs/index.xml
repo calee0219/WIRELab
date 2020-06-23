@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WIRELab</title>
+    <link>https://wire.cs.nctu.edu.tw/</link>
+      <atom:link href="https://wire.cs.nctu.edu.tw/index.xml" rel="self" type="application/rss+xml" />
+    <description>WIRELab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>WIRELab NCTU</copyright>
+    <image>
+      <url>https://wire.cs.nctu.edu.tw/images/icon_hu464f23cf3d997de27a7b401100cab9bd_10045_512x512_fill_lanczos_center_2.png</url>
+      <title>WIRELab</title>
+      <link>https://wire.cs.nctu.edu.tw/</link>
+    </image>
+    
+  </channel>
+</rss>

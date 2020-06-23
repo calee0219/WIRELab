@@ -48,4 +48,10 @@ subtitle = ""
 #  name = "Surfing"
 #  description = "90%"
 
+[advanced]
+ # Custom CSS. 
+ css_style = ".svg-icon {width: auto;}"
+ 
+ # CSS class.
+ css_class = "team_icon"
 +++
