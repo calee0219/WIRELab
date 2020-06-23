@@ -48,4 +48,4 @@ user_groups:
 - MS. Students
 ---
 
-  Working in SensingGo group
+  Working in V2X group
